@@ -1,0 +1,129 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 4581433264,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (486).JPG",
+      "size": 15621,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_GLSp 7341.JPG",
+      "pvc_filename": "f4d1410d-4fb6-4d90-ac8c-c96e64374cfa___RS_GLSp 7341.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7179631275,
+      "image_id": 4581433264,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 100,
+      "bbox": [
+        191,
+        210,
+        17,
+        27
+      ]
+    },
+    {
+      "id": 4303079275,
+      "image_id": 4581433264,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 135,
+      "bbox": [
+        39,
+        196,
+        8,
+        36
+      ]
+    },
+    {
+      "id": 3251161275,
+      "image_id": 4581433264,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 133,
+      "bbox": [
+        102,
+        202,
+        11,
+        16
+      ]
+    },
+    {
+      "id": 8685918275,
+      "image_id": 4581433264,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 1466,
+      "bbox": [
+        207,
+        0,
+        33,
+        209
+      ]
+    },
+    {
+      "id": 5600863275,
+      "image_id": 4581433264,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 406,
+      "bbox": [
+        33,
+        118,
+        14,
+        77
+      ]
+    },
+    {
+      "id": 2904729275,
+      "image_id": 4581433264,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 600,
+      "bbox": [
+        29,
+        58,
+        19,
+        56
+      ]
+    },
+    {
+      "id": 4343462275,
+      "image_id": 4581433264,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 143,
+      "bbox": [
+        32,
+        0,
+        15,
+        16
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000007,
+      "name": "Cercospora_leaf_spot Gray_leaf_spot",
+      "supercategory": "Corn"
+    }
+  ]
+}

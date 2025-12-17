@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2131191612,
+      "width": 204,
+      "height": 204,
+      "file_name": "image (833).JPG",
+      "size": 13417,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7848558620,
+      "image_id": 2131191612,
+      "category_id": 1000000007,
+      "segmentation": [],
+      "area": 28133,
+      "bbox": [
+        0,
+        0,
+        204,
+        204
+      ]
+    },
+    {
+      "id": 3037807620,
+      "image_id": 2131191612,
+      "category_id": 1000000007,
+      "segmentation": [],
+      "area": 149,
+      "bbox": [
+        191,
+        13,
+        13,
+        15
+      ]
+    },
+    {
+      "id": 9755054620,
+      "image_id": 2131191612,
+      "category_id": 1000000007,
+      "segmentation": [],
+      "area": 197,
+      "bbox": [
+        182,
+        0,
+        20,
+        13
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000007,
+      "name": "Cercospora_leaf_spot Gray_leaf_spot",
+      "supercategory": "Corn"
+    }
+  ]
+}

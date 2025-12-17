@@ -1,0 +1,103 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 1299307475,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (261).JPG",
+      "size": 17198,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_GLSp 4449.JPG",
+      "pvc_filename": "97173da1-f3d9-4b42-8e86-3f2a066c1704___RS_GLSp 4449.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9283497486,
+      "image_id": 1299307475,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 35818,
+      "bbox": [
+        0,
+        0,
+        246,
+        256
+      ]
+    },
+    {
+      "id": 5111231486,
+      "image_id": 1299307475,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 550,
+      "bbox": [
+        100,
+        150,
+        41,
+        48
+      ]
+    },
+    {
+      "id": 7531949486,
+      "image_id": 1299307475,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 442,
+      "bbox": [
+        134,
+        147,
+        22,
+        35
+      ]
+    },
+    {
+      "id": 7861237486,
+      "image_id": 1299307475,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 167,
+      "bbox": [
+        159,
+        162,
+        13,
+        19
+      ]
+    },
+    {
+      "id": 2870218486,
+      "image_id": 1299307475,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 285,
+      "bbox": [
+        180,
+        161,
+        28,
+        21
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000007,
+      "name": "Cercospora_leaf_spot Gray_leaf_spot",
+      "supercategory": "Corn"
+    }
+  ]
+}

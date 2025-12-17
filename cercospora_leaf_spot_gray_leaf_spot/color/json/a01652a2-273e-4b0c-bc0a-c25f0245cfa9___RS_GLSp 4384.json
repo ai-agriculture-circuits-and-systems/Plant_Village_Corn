@@ -1,0 +1,103 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 1253314129,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (316).JPG",
+      "size": 13050,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_GLSp 4384.JPG",
+      "pvc_filename": "a01652a2-273e-4b0c-bc0a-c25f0245cfa9___RS_GLSp 4384.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9739585137,
+      "image_id": 1253314129,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 17234,
+      "bbox": [
+        16,
+        0,
+        159,
+        256
+      ]
+    },
+    {
+      "id": 2938115137,
+      "image_id": 1253314129,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 7172,
+      "bbox": [
+        166,
+        0,
+        73,
+        256
+      ]
+    },
+    {
+      "id": 5565734137,
+      "image_id": 1253314129,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 128,
+      "bbox": [
+        154,
+        134,
+        10,
+        21
+      ]
+    },
+    {
+      "id": 2651275137,
+      "image_id": 1253314129,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 130,
+      "bbox": [
+        103,
+        66,
+        10,
+        18
+      ]
+    },
+    {
+      "id": 6774997137,
+      "image_id": 1253314129,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 143,
+      "bbox": [
+        152,
+        49,
+        13,
+        19
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000007,
+      "name": "Cercospora_leaf_spot Gray_leaf_spot",
+      "supercategory": "Corn"
+    }
+  ]
+}

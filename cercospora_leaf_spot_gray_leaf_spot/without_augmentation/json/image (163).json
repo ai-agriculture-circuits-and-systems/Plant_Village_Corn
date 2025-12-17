@@ -1,0 +1,103 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 8278526241,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (163).JPG",
+      "size": 14356,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_GLSp 4564.JPG",
+      "pvc_filename": "89db4731-dd79-48cc-a1d8-0ef44165e613___RS_GLSp 4564.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9415022250,
+      "image_id": 8278526241,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 20769,
+      "bbox": [
+        22,
+        0,
+        192,
+        256
+      ]
+    },
+    {
+      "id": 4190341250,
+      "image_id": 8278526241,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 190,
+      "bbox": [
+        126,
+        158,
+        13,
+        30
+      ]
+    },
+    {
+      "id": 3148828250,
+      "image_id": 8278526241,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 317,
+      "bbox": [
+        131,
+        20,
+        22,
+        40
+      ]
+    },
+    {
+      "id": 9953757250,
+      "image_id": 8278526241,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 652,
+      "bbox": [
+        144,
+        0,
+        39,
+        52
+      ]
+    },
+    {
+      "id": 8269458250,
+      "image_id": 8278526241,
+      "category_id": 2000000007,
+      "segmentation": [],
+      "area": 128,
+      "bbox": [
+        168,
+        5,
+        14,
+        16
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000007,
+      "name": "Cercospora_leaf_spot Gray_leaf_spot",
+      "supercategory": "Corn"
+    }
+  ]
+}
