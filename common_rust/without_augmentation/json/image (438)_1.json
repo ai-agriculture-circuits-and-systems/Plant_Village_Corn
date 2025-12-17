@@ -1,0 +1,115 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 6432173968,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (438).JPG",
+      "size": 12517,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "pvc_filename": "RS_Rust 2007.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5310394976,
+      "image_id": 6432173968,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 13085,
+      "bbox": [
+        0,
+        0,
+        83,
+        256
+      ]
+    },
+    {
+      "id": 5936334976,
+      "image_id": 6432173968,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 151,
+      "bbox": [
+        230,
+        226,
+        11,
+        24
+      ]
+    },
+    {
+      "id": 9171145976,
+      "image_id": 6432173968,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 20138,
+      "bbox": [
+        59,
+        0,
+        197,
+        235
+      ]
+    },
+    {
+      "id": 6867244976,
+      "image_id": 6432173968,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 121,
+      "bbox": [
+        80,
+        135,
+        15,
+        13
+      ]
+    },
+    {
+      "id": 7910046976,
+      "image_id": 6432173968,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 752,
+      "bbox": [
+        139,
+        88,
+        32,
+        50
+      ]
+    },
+    {
+      "id": 3002243976,
+      "image_id": 6432173968,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 122,
+      "bbox": [
+        177,
+        121,
+        23,
+        10
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000008,
+      "name": "Common_rust",
+      "supercategory": "Corn"
+    }
+  ]
+}

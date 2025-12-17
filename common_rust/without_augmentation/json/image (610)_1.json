@@ -1,0 +1,245 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 9845999031,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (610).JPG",
+      "size": 15141,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "pvc_filename": "RS_Rust 2180.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8262679040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 213,
+      "bbox": [
+        0,
+        224,
+        9,
+        32
+      ]
+    },
+    {
+      "id": 7400546040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 132,
+      "bbox": [
+        230,
+        230,
+        21,
+        16
+      ]
+    },
+    {
+      "id": 6586471040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 105,
+      "bbox": [
+        6,
+        222,
+        14,
+        22
+      ]
+    },
+    {
+      "id": 2540928040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 120,
+      "bbox": [
+        41,
+        199,
+        13,
+        24
+      ]
+    },
+    {
+      "id": 5358895040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 22644,
+      "bbox": [
+        0,
+        0,
+        256,
+        215
+      ]
+    },
+    {
+      "id": 2841578040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 253,
+      "bbox": [
+        88,
+        183,
+        20,
+        26
+      ]
+    },
+    {
+      "id": 4653233040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 108,
+      "bbox": [
+        219,
+        186,
+        18,
+        14
+      ]
+    },
+    {
+      "id": 4499430040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 141,
+      "bbox": [
+        171,
+        181,
+        26,
+        12
+      ]
+    },
+    {
+      "id": 9486574040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 160,
+      "bbox": [
+        177,
+        160,
+        16,
+        20
+      ]
+    },
+    {
+      "id": 8252050040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 413,
+      "bbox": [
+        152,
+        151,
+        25,
+        26
+      ]
+    },
+    {
+      "id": 7982958040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 1054,
+      "bbox": [
+        43,
+        119,
+        63,
+        46
+      ]
+    },
+    {
+      "id": 4863324040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 343,
+      "bbox": [
+        133,
+        96,
+        21,
+        36
+      ]
+    },
+    {
+      "id": 8946338040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 427,
+      "bbox": [
+        105,
+        55,
+        13,
+        58
+      ]
+    },
+    {
+      "id": 8077246040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 322,
+      "bbox": [
+        68,
+        55,
+        23,
+        41
+      ]
+    },
+    {
+      "id": 3196887040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 120,
+      "bbox": [
+        92,
+        52,
+        8,
+        23
+      ]
+    },
+    {
+      "id": 3333009040,
+      "image_id": 9845999031,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 111,
+      "bbox": [
+        98,
+        36,
+        11,
+        18
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000008,
+      "name": "Common_rust",
+      "supercategory": "Corn"
+    }
+  ]
+}

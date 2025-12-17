@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2191310094,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (30).JPG",
+      "size": 18025,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5737202101,
+      "image_id": 2191310094,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 19509,
+      "bbox": [
+        0,
+        0,
+        157,
+        256
+      ]
+    },
+    {
+      "id": 2774522101,
+      "image_id": 2191310094,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 21549,
+      "bbox": [
+        128,
+        0,
+        128,
+        256
+      ]
+    },
+    {
+      "id": 9252828101,
+      "image_id": 2191310094,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 121,
+      "bbox": [
+        64,
+        241,
+        19,
+        12
+      ]
+    },
+    {
+      "id": 4324392101,
+      "image_id": 2191310094,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 133,
+      "bbox": [
+        129,
+        128,
+        7,
+        44
+      ]
+    },
+    {
+      "id": 7297222101,
+      "image_id": 2191310094,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 308,
+      "bbox": [
+        101,
+        0,
+        29,
+        41
+      ]
+    },
+    {
+      "id": 1751357101,
+      "image_id": 2191310094,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 203,
+      "bbox": [
+        26,
+        0,
+        17,
+        22
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000008,
+      "name": "Common_rust",
+      "supercategory": "Corn"
+    }
+  ]
+}

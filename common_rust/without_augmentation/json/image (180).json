@@ -1,0 +1,141 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 3687747662,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (180).JPG",
+      "size": 15074,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "pvc_filename": "RS_Rust 1743.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8016791671,
+      "image_id": 3687747662,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 42460,
+      "bbox": [
+        0,
+        0,
+        256,
+        256
+      ]
+    },
+    {
+      "id": 8907232671,
+      "image_id": 3687747662,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 135,
+      "bbox": [
+        199,
+        203,
+        25,
+        18
+      ]
+    },
+    {
+      "id": 5507935671,
+      "image_id": 3687747662,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 132,
+      "bbox": [
+        163,
+        197,
+        14,
+        18
+      ]
+    },
+    {
+      "id": 4493227671,
+      "image_id": 3687747662,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 124,
+      "bbox": [
+        122,
+        160,
+        19,
+        26
+      ]
+    },
+    {
+      "id": 6603692671,
+      "image_id": 3687747662,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 224,
+      "bbox": [
+        108,
+        126,
+        20,
+        23
+      ]
+    },
+    {
+      "id": 5468804671,
+      "image_id": 3687747662,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 155,
+      "bbox": [
+        184,
+        97,
+        16,
+        27
+      ]
+    },
+    {
+      "id": 7163207671,
+      "image_id": 3687747662,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 134,
+      "bbox": [
+        20,
+        85,
+        29,
+        12
+      ]
+    },
+    {
+      "id": 8090565671,
+      "image_id": 3687747662,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 136,
+      "bbox": [
+        171,
+        47,
+        14,
+        13
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000008,
+      "name": "Common_rust",
+      "supercategory": "Corn"
+    }
+  ]
+}

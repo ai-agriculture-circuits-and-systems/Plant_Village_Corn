@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6790400826,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (530).JPG",
+      "size": 15066,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2548162834,
+      "image_id": 6790400826,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 43397,
+      "bbox": [
+        0,
+        0,
+        256,
+        256
+      ]
+    },
+    {
+      "id": 2815536834,
+      "image_id": 6790400826,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 169,
+      "bbox": [
+        177,
+        232,
+        18,
+        21
+      ]
+    },
+    {
+      "id": 9607386834,
+      "image_id": 6790400826,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 161,
+      "bbox": [
+        24,
+        222,
+        13,
+        24
+      ]
+    },
+    {
+      "id": 8498433834,
+      "image_id": 6790400826,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 533,
+      "bbox": [
+        97,
+        167,
+        16,
+        74
+      ]
+    },
+    {
+      "id": 8648460834,
+      "image_id": 6790400826,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 260,
+      "bbox": [
+        134,
+        214,
+        19,
+        27
+      ]
+    },
+    {
+      "id": 6393036834,
+      "image_id": 6790400826,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 360,
+      "bbox": [
+        18,
+        203,
+        36,
+        21
+      ]
+    },
+    {
+      "id": 8208210834,
+      "image_id": 6790400826,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 372,
+      "bbox": [
+        62,
+        190,
+        34,
+        28
+      ]
+    },
+    {
+      "id": 7610291834,
+      "image_id": 6790400826,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 101,
+      "bbox": [
+        75,
+        159,
+        24,
+        13
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000008,
+      "name": "Common_rust",
+      "supercategory": "Corn"
+    }
+  ]
+}

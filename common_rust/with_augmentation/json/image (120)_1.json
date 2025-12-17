@@ -1,0 +1,204 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2952149009,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (120).JPG",
+      "size": 14619,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9827262017,
+      "image_id": 2952149009,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 10375,
+      "bbox": [
+        0,
+        0,
+        109,
+        256
+      ]
+    },
+    {
+      "id": 6093686017,
+      "image_id": 2952149009,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 1264,
+      "bbox": [
+        60,
+        242,
+        166,
+        14
+      ]
+    },
+    {
+      "id": 5346357017,
+      "image_id": 2952149009,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 1440,
+      "bbox": [
+        223,
+        181,
+        33,
+        75
+      ]
+    },
+    {
+      "id": 4182938017,
+      "image_id": 2952149009,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 218,
+      "bbox": [
+        193,
+        239,
+        39,
+        11
+      ]
+    },
+    {
+      "id": 7494344017,
+      "image_id": 2952149009,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 166,
+      "bbox": [
+        217,
+        202,
+        19,
+        22
+      ]
+    },
+    {
+      "id": 3655385017,
+      "image_id": 2952149009,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 172,
+      "bbox": [
+        187,
+        166,
+        14,
+        26
+      ]
+    },
+    {
+      "id": 3994133017,
+      "image_id": 2952149009,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 8529,
+      "bbox": [
+        113,
+        0,
+        143,
+        167
+      ]
+    },
+    {
+      "id": 3405035017,
+      "image_id": 2952149009,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 233,
+      "bbox": [
+        217,
+        125,
+        20,
+        30
+      ]
+    },
+    {
+      "id": 1435121017,
+      "image_id": 2952149009,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 227,
+      "bbox": [
+        50,
+        116,
+        23,
+        28
+      ]
+    },
+    {
+      "id": 1944848017,
+      "image_id": 2952149009,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 561,
+      "bbox": [
+        129,
+        73,
+        25,
+        51
+      ]
+    },
+    {
+      "id": 7051146017,
+      "image_id": 2952149009,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 127,
+      "bbox": [
+        180,
+        100,
+        18,
+        12
+      ]
+    },
+    {
+      "id": 8668134017,
+      "image_id": 2952149009,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 110,
+      "bbox": [
+        132,
+        48,
+        17,
+        13
+      ]
+    },
+    {
+      "id": 8539818017,
+      "image_id": 2952149009,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 236,
+      "bbox": [
+        95,
+        20,
+        27,
+        19
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000008,
+      "name": "Common_rust",
+      "supercategory": "Corn"
+    }
+  ]
+}
