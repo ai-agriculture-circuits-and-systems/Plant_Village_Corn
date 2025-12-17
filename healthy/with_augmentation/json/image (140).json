@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8149898630,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (140).jpg",
+      "size": 13802,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2218265638,
+      "image_id": 8149898630,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 201,
+      "bbox": [
+        154,
+        145,
+        19,
+        63
+      ]
+    },
+    {
+      "id": 8944918638,
+      "image_id": 8149898630,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 3404,
+      "bbox": [
+        209,
+        0,
+        47,
+        107
+      ]
+    },
+    {
+      "id": 6398168638,
+      "image_id": 8149898630,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 250,
+      "bbox": [
+        198,
+        0,
+        18,
+        49
+      ]
+    },
+    {
+      "id": 4832149638,
+      "image_id": 8149898630,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 286,
+      "bbox": [
+        47,
+        0,
+        28,
+        25
+      ]
+    },
+    {
+      "id": 6101889638,
+      "image_id": 8149898630,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 202,
+      "bbox": [
+        0,
+        0,
+        14,
+        23
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000009,
+      "name": "healthy",
+      "supercategory": "Corn"
+    }
+  ]
+}

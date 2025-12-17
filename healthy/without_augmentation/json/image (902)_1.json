@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5222442752,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (902).jpg",
+      "size": 17165,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9984137762,
+      "image_id": 5222442752,
+      "category_id": 2000000009,
+      "segmentation": [],
+      "area": 258,
+      "bbox": [
+        225,
+        236,
+        31,
+        20
+      ]
+    },
+    {
+      "id": 1944520762,
+      "image_id": 5222442752,
+      "category_id": 2000000009,
+      "segmentation": [],
+      "area": 763,
+      "bbox": [
+        208,
+        185,
+        48,
+        43
+      ]
+    },
+    {
+      "id": 8656719762,
+      "image_id": 5222442752,
+      "category_id": 2000000009,
+      "segmentation": [],
+      "area": 1293,
+      "bbox": [
+        191,
+        116,
+        65,
+        70
+      ]
+    },
+    {
+      "id": 3990143762,
+      "image_id": 5222442752,
+      "category_id": 2000000009,
+      "segmentation": [],
+      "area": 1445,
+      "bbox": [
+        37,
+        98,
+        61,
+        76
+      ]
+    },
+    {
+      "id": 8652055762,
+      "image_id": 5222442752,
+      "category_id": 2000000009,
+      "segmentation": [],
+      "area": 237,
+      "bbox": [
+        0,
+        140,
+        25,
+        27
+      ]
+    },
+    {
+      "id": 9924981762,
+      "image_id": 5222442752,
+      "category_id": 2000000009,
+      "segmentation": [],
+      "area": 696,
+      "bbox": [
+        134,
+        67,
+        49,
+        59
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000009,
+      "name": "healthy",
+      "supercategory": "Corn"
+    }
+  ]
+}

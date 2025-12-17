@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5454239780,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (399).jpg",
+      "size": 17016,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8579984790,
+      "image_id": 5454239780,
+      "category_id": 2000000009,
+      "segmentation": [],
+      "area": 161,
+      "bbox": [
+        169,
+        230,
+        15,
+        26
+      ]
+    },
+    {
+      "id": 3383679790,
+      "image_id": 5454239780,
+      "category_id": 2000000009,
+      "segmentation": [],
+      "area": 10903,
+      "bbox": [
+        91,
+        0,
+        164,
+        155
+      ]
+    },
+    {
+      "id": 4104766790,
+      "image_id": 5454239780,
+      "category_id": 2000000009,
+      "segmentation": [],
+      "area": 731,
+      "bbox": [
+        0,
+        0,
+        61,
+        22
+      ]
+    },
+    {
+      "id": 9214709790,
+      "image_id": 5454239780,
+      "category_id": 2000000009,
+      "segmentation": [],
+      "area": 103,
+      "bbox": [
+        246,
+        0,
+        10,
+        15
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000009,
+      "name": "healthy",
+      "supercategory": "Corn"
+    }
+  ]
+}
