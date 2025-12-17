@@ -1,0 +1,220 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 6152781715,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (652).JPG",
+      "size": 20139,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_NLB 3591.JPG",
+      "pvc_filename": "aba00298-7a74-47e3-a5b3-9dc6db347265___RS_NLB 3591.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5012347723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 3204,
+      "bbox": [
+        35,
+        0,
+        138,
+        256
+      ]
+    },
+    {
+      "id": 4680300723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 15581,
+      "bbox": [
+        138,
+        0,
+        118,
+        256
+      ]
+    },
+    {
+      "id": 4417068723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 445,
+      "bbox": [
+        233,
+        137,
+        23,
+        46
+      ]
+    },
+    {
+      "id": 5447833723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 581,
+      "bbox": [
+        107,
+        117,
+        36,
+        48
+      ]
+    },
+    {
+      "id": 2781564723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 195,
+      "bbox": [
+        125,
+        84,
+        20,
+        26
+      ]
+    },
+    {
+      "id": 2426594723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 1075,
+      "bbox": [
+        172,
+        0,
+        31,
+        82
+      ]
+    },
+    {
+      "id": 4213091723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 175,
+      "bbox": [
+        75,
+        46,
+        13,
+        34
+      ]
+    },
+    {
+      "id": 7119483723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 125,
+      "bbox": [
+        145,
+        51,
+        10,
+        17
+      ]
+    },
+    {
+      "id": 2726161723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 366,
+      "bbox": [
+        112,
+        0,
+        16,
+        57
+      ]
+    },
+    {
+      "id": 8518350723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 132,
+      "bbox": [
+        71,
+        25,
+        18,
+        16
+      ]
+    },
+    {
+      "id": 6749236723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 160,
+      "bbox": [
+        56,
+        2,
+        17,
+        22
+      ]
+    },
+    {
+      "id": 6638150723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 140,
+      "bbox": [
+        88,
+        0,
+        8,
+        24
+      ]
+    },
+    {
+      "id": 4291265723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 104,
+      "bbox": [
+        147,
+        0,
+        14,
+        18
+      ]
+    },
+    {
+      "id": 2902247723,
+      "image_id": 6152781715,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 199,
+      "bbox": [
+        239,
+        0,
+        17,
+        14
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000010,
+      "name": "Northern_Leaf_Blight",
+      "supercategory": "Corn"
+    }
+  ]
+}

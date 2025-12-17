@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4668388247,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (394).JPG",
+      "size": 15047,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4884880256,
+      "image_id": 4668388247,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 284,
+      "bbox": [
+        198,
+        182,
+        10,
+        74
+      ]
+    },
+    {
+      "id": 1916942256,
+      "image_id": 4668388247,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 2790,
+      "bbox": [
+        127,
+        34,
+        46,
+        148
+      ]
+    },
+    {
+      "id": 1644781256,
+      "image_id": 4668388247,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 2002,
+      "bbox": [
+        195,
+        0,
+        61,
+        176
+      ]
+    },
+    {
+      "id": 3939775256,
+      "image_id": 4668388247,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 183,
+      "bbox": [
+        95,
+        116,
+        9,
+        28
+      ]
+    },
+    {
+      "id": 2750667256,
+      "image_id": 4668388247,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 169,
+      "bbox": [
+        42,
+        48,
+        11,
+        25
+      ]
+    },
+    {
+      "id": 7603670256,
+      "image_id": 4668388247,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 486,
+      "bbox": [
+        2,
+        29,
+        30,
+        35
+      ]
+    },
+    {
+      "id": 7701259256,
+      "image_id": 4668388247,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 356,
+      "bbox": [
+        89,
+        16,
+        16,
+        37
+      ]
+    },
+    {
+      "id": 6799882256,
+      "image_id": 4668388247,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 121,
+      "bbox": [
+        32,
+        0,
+        11,
+        16
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000010,
+      "name": "Northern_Leaf_Blight",
+      "supercategory": "Corn"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 1682888003,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (107).JPG",
+      "size": 16466,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_NLB 3835.JPG",
+      "pvc_filename": "4fb94993-2201-4b0f-bd6f-864b76774df8___RS_NLB 3835.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8811036014,
+      "image_id": 1682888003,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 16717,
+      "bbox": [
+        19,
+        0,
+        222,
+        256
+      ]
+    },
+    {
+      "id": 2389168014,
+      "image_id": 1682888003,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 146,
+      "bbox": [
+        138,
+        162,
+        13,
+        40
+      ]
+    },
+    {
+      "id": 9707353014,
+      "image_id": 1682888003,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 287,
+      "bbox": [
+        105,
+        129,
+        19,
+        48
+      ]
+    },
+    {
+      "id": 6423435014,
+      "image_id": 1682888003,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 218,
+      "bbox": [
+        125,
+        137,
+        17,
+        25
+      ]
+    },
+    {
+      "id": 5176701014,
+      "image_id": 1682888003,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 159,
+      "bbox": [
+        112,
+        79,
+        15,
+        23
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000010,
+      "name": "Northern_Leaf_Blight",
+      "supercategory": "Corn"
+    }
+  ]
+}
