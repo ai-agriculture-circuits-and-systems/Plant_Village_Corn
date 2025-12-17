@@ -1,0 +1,103 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 4596722777,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (337).JPG",
+      "size": 12413,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "RS_NLB 3901.JPG",
+      "pvc_filename": "64e040bd-4462-4a59-b670-36ed3156ed38___RS_NLB 3901.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7288684785,
+      "image_id": 4596722777,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 8148,
+      "bbox": [
+        71,
+        90,
+        185,
+        166
+      ]
+    },
+    {
+      "id": 8066617785,
+      "image_id": 4596722777,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 280,
+      "bbox": [
+        155,
+        150,
+        19,
+        30
+      ]
+    },
+    {
+      "id": 3341688785,
+      "image_id": 4596722777,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 319,
+      "bbox": [
+        145,
+        125,
+        21,
+        36
+      ]
+    },
+    {
+      "id": 7382212785,
+      "image_id": 4596722777,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 6512,
+      "bbox": [
+        39,
+        0,
+        159,
+        146
+      ]
+    },
+    {
+      "id": 6697436785,
+      "image_id": 4596722777,
+      "category_id": 2000000010,
+      "segmentation": [],
+      "area": 174,
+      "bbox": [
+        138,
+        112,
+        16,
+        23
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000010,
+      "name": "Northern_Leaf_Blight",
+      "supercategory": "Corn"
+    }
+  ]
+}

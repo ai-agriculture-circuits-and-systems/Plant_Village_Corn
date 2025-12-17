@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1743107339,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (743).jpg",
+      "size": 13221,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9379595347,
+      "image_id": 1743107339,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 4202,
+      "bbox": [
+        42,
+        49,
+        88,
+        207
+      ]
+    },
+    {
+      "id": 3693888347,
+      "image_id": 1743107339,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 117,
+      "bbox": [
+        126,
+        231,
+        13,
+        25
+      ]
+    },
+    {
+      "id": 2932705347,
+      "image_id": 1743107339,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 1332,
+      "bbox": [
+        171,
+        188,
+        35,
+        68
+      ]
+    },
+    {
+      "id": 2717356347,
+      "image_id": 1743107339,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 150,
+      "bbox": [
+        218,
+        214,
+        22,
+        42
+      ]
+    },
+    {
+      "id": 6489630347,
+      "image_id": 1743107339,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 110,
+      "bbox": [
+        112,
+        187,
+        13,
+        36
+      ]
+    },
+    {
+      "id": 3338492347,
+      "image_id": 1743107339,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 2432,
+      "bbox": [
+        0,
+        71,
+        61,
+        116
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000010,
+      "name": "Northern_Leaf_Blight",
+      "supercategory": "Corn"
+    }
+  ]
+}

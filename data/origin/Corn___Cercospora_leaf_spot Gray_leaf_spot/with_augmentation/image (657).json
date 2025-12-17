@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4111657461,
+      "width": 204,
+      "height": 204,
+      "file_name": "image (657).JPG",
+      "size": 12330,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7606414470,
+      "image_id": 4111657461,
+      "category_id": 1000000007,
+      "segmentation": [],
+      "area": 29142,
+      "bbox": [
+        0,
+        0,
+        204,
+        204
+      ]
+    },
+    {
+      "id": 9864151470,
+      "image_id": 4111657461,
+      "category_id": 1000000007,
+      "segmentation": [],
+      "area": 114,
+      "bbox": [
+        178,
+        156,
+        18,
+        9
+      ]
+    },
+    {
+      "id": 3505323470,
+      "image_id": 4111657461,
+      "category_id": 1000000007,
+      "segmentation": [],
+      "area": 338,
+      "bbox": [
+        165,
+        18,
+        39,
+        14
+      ]
+    },
+    {
+      "id": 8781386470,
+      "image_id": 4111657461,
+      "category_id": 1000000007,
+      "segmentation": [],
+      "area": 176,
+      "bbox": [
+        72,
+        14,
+        20,
+        15
+      ]
+    },
+    {
+      "id": 6548474470,
+      "image_id": 4111657461,
+      "category_id": 1000000007,
+      "segmentation": [],
+      "area": 364,
+      "bbox": [
+        81,
+        0,
+        43,
+        18
+      ]
+    },
+    {
+      "id": 2467372470,
+      "image_id": 4111657461,
+      "category_id": 1000000007,
+      "segmentation": [],
+      "area": 119,
+      "bbox": [
+        142,
+        0,
+        18,
+        11
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000007,
+      "name": "Cercospora_leaf_spot Gray_leaf_spot",
+      "supercategory": "Corn"
+    }
+  ]
+}

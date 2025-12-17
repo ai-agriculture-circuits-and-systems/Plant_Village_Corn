@@ -1,0 +1,61 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6667523152,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (69).jpg",
+      "size": 13275,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8393706162,
+      "image_id": 6667523152,
+      "category_id": 2000000009,
+      "segmentation": [],
+      "area": 2648,
+      "bbox": [
+        89,
+        63,
+        134,
+        193
+      ]
+    },
+    {
+      "id": 8592467162,
+      "image_id": 6667523152,
+      "category_id": 2000000009,
+      "segmentation": [],
+      "area": 152,
+      "bbox": [
+        65,
+        21,
+        25,
+        41
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000009,
+      "name": "healthy",
+      "supercategory": "Corn"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6234885704,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (32).jpg",
+      "size": 11331,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8994371712,
+      "image_id": 6234885704,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 793,
+      "bbox": [
+        51,
+        138,
+        66,
+        118
+      ]
+    },
+    {
+      "id": 9090932712,
+      "image_id": 6234885704,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 228,
+      "bbox": [
+        124,
+        210,
+        25,
+        46
+      ]
+    },
+    {
+      "id": 5669005712,
+      "image_id": 6234885704,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 528,
+      "bbox": [
+        230,
+        210,
+        26,
+        46
+      ]
+    },
+    {
+      "id": 5164866712,
+      "image_id": 6234885704,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 100,
+      "bbox": [
+        149,
+        196,
+        11,
+        18
+      ]
+    },
+    {
+      "id": 7200034712,
+      "image_id": 6234885704,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 3650,
+      "bbox": [
+        49,
+        0,
+        124,
+        170
+      ]
+    },
+    {
+      "id": 7071116712,
+      "image_id": 6234885704,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 231,
+      "bbox": [
+        147,
+        102,
+        35,
+        58
+      ]
+    },
+    {
+      "id": 6869689712,
+      "image_id": 6234885704,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 1524,
+      "bbox": [
+        28,
+        51,
+        46,
+        88
+      ]
+    },
+    {
+      "id": 7983478712,
+      "image_id": 6234885704,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 496,
+      "bbox": [
+        209,
+        76,
+        47,
+        51
+      ]
+    },
+    {
+      "id": 3894856712,
+      "image_id": 6234885704,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 825,
+      "bbox": [
+        140,
+        20,
+        83,
+        98
+      ]
+    },
+    {
+      "id": 5185006712,
+      "image_id": 6234885704,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 259,
+      "bbox": [
+        181,
+        66,
+        26,
+        42
+      ]
+    },
+    {
+      "id": 8485886712,
+      "image_id": 6234885704,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 714,
+      "bbox": [
+        218,
+        3,
+        38,
+        48
+      ]
+    },
+    {
+      "id": 9124743712,
+      "image_id": 6234885704,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 120,
+      "bbox": [
+        0,
+        0,
+        9,
+        17
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000009,
+      "name": "healthy",
+      "supercategory": "Corn"
+    }
+  ]
+}

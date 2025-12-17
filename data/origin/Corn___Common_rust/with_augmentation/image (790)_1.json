@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3736645984,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (790).JPG",
+      "size": 17289,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8115625994,
+      "image_id": 3736645984,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 49239,
+      "bbox": [
+        0,
+        0,
+        256,
+        256
+      ]
+    },
+    {
+      "id": 4720831994,
+      "image_id": 3736645984,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 162,
+      "bbox": [
+        25,
+        220,
+        15,
+        24
+      ]
+    },
+    {
+      "id": 9417158994,
+      "image_id": 3736645984,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 119,
+      "bbox": [
+        47,
+        189,
+        10,
+        19
+      ]
+    },
+    {
+      "id": 2114266994,
+      "image_id": 3736645984,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 221,
+      "bbox": [
+        138,
+        107,
+        20,
+        23
+      ]
+    },
+    {
+      "id": 7997374994,
+      "image_id": 3736645984,
+      "category_id": 1000000008,
+      "segmentation": [],
+      "area": 110,
+      "bbox": [
+        92,
+        96,
+        18,
+        9
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000008,
+      "name": "Common_rust",
+      "supercategory": "Corn"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 9998503619,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (493).JPG",
+      "size": 14001,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "pvc_filename": "RS_Rust 2062.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9862729626,
+      "image_id": 9998503619,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 28350,
+      "bbox": [
+        0,
+        54,
+        256,
+        202
+      ]
+    },
+    {
+      "id": 1874875626,
+      "image_id": 9998503619,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 138,
+      "bbox": [
+        97,
+        188,
+        21,
+        14
+      ]
+    },
+    {
+      "id": 8784370626,
+      "image_id": 9998503619,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 2092,
+      "bbox": [
+        100,
+        0,
+        28,
+        187
+      ]
+    },
+    {
+      "id": 2315028626,
+      "image_id": 9998503619,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 122,
+      "bbox": [
+        81,
+        132,
+        15,
+        18
+      ]
+    },
+    {
+      "id": 2127279626,
+      "image_id": 9998503619,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 162,
+      "bbox": [
+        70,
+        40,
+        11,
+        32
+      ]
+    },
+    {
+      "id": 6759033626,
+      "image_id": 9998503619,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 135,
+      "bbox": [
+        144,
+        48,
+        8,
+        21
+      ]
+    },
+    {
+      "id": 1480997626,
+      "image_id": 9998503619,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 198,
+      "bbox": [
+        191,
+        41,
+        27,
+        25
+      ]
+    },
+    {
+      "id": 1833680626,
+      "image_id": 9998503619,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 122,
+      "bbox": [
+        16,
+        44,
+        20,
+        15
+      ]
+    },
+    {
+      "id": 6904419626,
+      "image_id": 9998503619,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 125,
+      "bbox": [
+        0,
+        43,
+        14,
+        13
+      ]
+    },
+    {
+      "id": 1909080626,
+      "image_id": 9998503619,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 308,
+      "bbox": [
+        231,
+        22,
+        25,
+        23
+      ]
+    },
+    {
+      "id": 6051553626,
+      "image_id": 9998503619,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 105,
+      "bbox": [
+        214,
+        22,
+        15,
+        11
+      ]
+    },
+    {
+      "id": 7240348626,
+      "image_id": 9998503619,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 181,
+      "bbox": [
+        0,
+        0,
+        20,
+        20
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000008,
+      "name": "Common_rust",
+      "supercategory": "Corn"
+    }
+  ]
+}

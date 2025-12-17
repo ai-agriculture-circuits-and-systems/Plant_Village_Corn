@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8918710517,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (733).jpg",
+      "size": 10860,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4034865527,
+      "image_id": 8918710517,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 167,
+      "bbox": [
+        250,
+        193,
+        6,
+        45
+      ]
+    },
+    {
+      "id": 8212144527,
+      "image_id": 8918710517,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 854,
+      "bbox": [
+        224,
+        140,
+        32,
+        74
+      ]
+    },
+    {
+      "id": 8941482527,
+      "image_id": 8918710517,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 323,
+      "bbox": [
+        126,
+        73,
+        38,
+        65
+      ]
+    },
+    {
+      "id": 4170644527,
+      "image_id": 8918710517,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 131,
+      "bbox": [
+        152,
+        81,
+        13,
+        38
+      ]
+    },
+    {
+      "id": 4673068527,
+      "image_id": 8918710517,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 362,
+      "bbox": [
+        0,
+        5,
+        48,
+        59
+      ]
+    },
+    {
+      "id": 7986001527,
+      "image_id": 8918710517,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 197,
+      "bbox": [
+        197,
+        0,
+        42,
+        6
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000009,
+      "name": "healthy",
+      "supercategory": "Corn"
+    }
+  ]
+}

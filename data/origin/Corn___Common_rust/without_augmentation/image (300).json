@@ -1,0 +1,76 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {}
+  },
+  "images": [
+    {
+      "id": 2328560309,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (300).JPG",
+      "size": 10058,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "pvc_filename": "RS_Rust 1867.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1499534316,
+      "image_id": 2328560309,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 56322,
+      "bbox": [
+        0,
+        0,
+        256,
+        256
+      ]
+    },
+    {
+      "id": 8084216316,
+      "image_id": 2328560309,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 134,
+      "bbox": [
+        179,
+        148,
+        20,
+        17
+      ]
+    },
+    {
+      "id": 1757385316,
+      "image_id": 2328560309,
+      "category_id": 2000000008,
+      "segmentation": [],
+      "area": 166,
+      "bbox": [
+        199,
+        124,
+        25,
+        17
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000008,
+      "name": "Common_rust",
+      "supercategory": "Corn"
+    }
+  ]
+}

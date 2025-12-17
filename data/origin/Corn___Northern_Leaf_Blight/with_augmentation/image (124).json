@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1248676926,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (124).JPG",
+      "size": 12176,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9089622936,
+      "image_id": 1248676926,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 5017,
+      "bbox": [
+        112,
+        59,
+        101,
+        197
+      ]
+    },
+    {
+      "id": 6985289936,
+      "image_id": 1248676926,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 206,
+      "bbox": [
+        167,
+        176,
+        9,
+        37
+      ]
+    },
+    {
+      "id": 2073212936,
+      "image_id": 1248676926,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 2411,
+      "bbox": [
+        59,
+        0,
+        53,
+        202
+      ]
+    },
+    {
+      "id": 2379138936,
+      "image_id": 1248676926,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 163,
+      "bbox": [
+        196,
+        15,
+        13,
+        44
+      ]
+    },
+    {
+      "id": 5884455936,
+      "image_id": 1248676926,
+      "category_id": 1000000010,
+      "segmentation": [],
+      "area": 131,
+      "bbox": [
+        96,
+        0,
+        13,
+        16
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000010,
+      "name": "Northern_Leaf_Blight",
+      "supercategory": "Corn"
+    }
+  ]
+}

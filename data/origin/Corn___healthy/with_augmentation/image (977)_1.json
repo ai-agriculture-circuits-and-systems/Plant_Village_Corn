@@ -1,0 +1,126 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4102671375,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (977).jpg",
+      "size": 11603,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5579123382,
+      "image_id": 4102671375,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 1227,
+      "bbox": [
+        32,
+        0,
+        63,
+        192
+      ]
+    },
+    {
+      "id": 3129985382,
+      "image_id": 4102671375,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 163,
+      "bbox": [
+        243,
+        80,
+        7,
+        37
+      ]
+    },
+    {
+      "id": 7216292382,
+      "image_id": 4102671375,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 1013,
+      "bbox": [
+        10,
+        0,
+        64,
+        88
+      ]
+    },
+    {
+      "id": 8034329382,
+      "image_id": 4102671375,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 622,
+      "bbox": [
+        144,
+        7,
+        19,
+        77
+      ]
+    },
+    {
+      "id": 8427282382,
+      "image_id": 4102671375,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 722,
+      "bbox": [
+        212,
+        0,
+        16,
+        73
+      ]
+    },
+    {
+      "id": 5416242382,
+      "image_id": 4102671375,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 227,
+      "bbox": [
+        122,
+        26,
+        10,
+        38
+      ]
+    },
+    {
+      "id": 1457235382,
+      "image_id": 4102671375,
+      "category_id": 1000000009,
+      "segmentation": [],
+      "area": 107,
+      "bbox": [
+        246,
+        44,
+        10,
+        14
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000009,
+      "name": "healthy",
+      "supercategory": "Corn"
+    }
+  ]
+}
